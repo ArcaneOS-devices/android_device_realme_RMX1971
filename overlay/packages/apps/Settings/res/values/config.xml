@@ -23,6 +23,6 @@
     <integer name="config_fingerprintSensorLocation">0</integer>
 
      <!-- ROM maintainer name -->
-    <string name="blaster_maintainer">eunhachingu</string>
+    <string name="blaster_maintainer">don eun</string>
 
 </resources>
